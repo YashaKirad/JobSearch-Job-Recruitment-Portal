@@ -1,6 +1,8 @@
-# RecruitTechPortal
+# JobSearch-Job-Recuritment-Portal
 
-**Repository Name** :RecruitTechPortal
+
+**Repository Name** :JobSearch-Job-Recuritment-Portal
+
 
 **Frontend Home Page Features**:
 1. **User-Friendly Interface**: Design an intuitive and user-friendly interface that showcases the core functionality of the recruitment portal. Use modern design principles and responsive layouts to ensure a seamless experience on various devices.
